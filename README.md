@@ -2,7 +2,7 @@
 
 A sample accelerator for Steeltoe.
 
-This sample is based on the Weather Forecast RESTful API application made available from Microsoft.
+This sample is based on the Weather Forecast RESTful API application made available from Micr osoft. 
 
 The application also includes several Steeltoe features: management endpoints, dynamic logging, and distributed tracing.
 
