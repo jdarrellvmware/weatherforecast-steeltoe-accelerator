@@ -1,4 +1,4 @@
-# Steeltoe Sample Accelerator
+# Steeltoe Sample Accelerator 
 
 A sample accelerator for Steeltoe.
 
