@@ -1,6 +1,6 @@
 ---
 accelerator:
-  displayName: Steeltoe Weather Forecast
+  displayName: PHNSY Weather Forecast Service
   description: A Steeltoe sample accelerator
   iconUrl: https://www.navsea.navy.mil/portals/103/Images/PHNSY_IMF/phnsylogo.jpg?ver=2015-11-06-155727-530
   tags:
@@ -9,6 +9,9 @@ accelerator:
   - steeltoe
   - tanzu
   - cloud-foundry
+  - pearl
+  - harbor
+  - phnsy
 
   options:
   - name: applicationName
